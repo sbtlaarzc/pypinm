@@ -21,8 +21,8 @@ Kakor se vidi iz študijskega in izpitnega reda, se predvsem razlikujeta predvse
 * [Predavanje 9 - Iskanje ničel](./Predavanje 09 - Iskanje ničel.ipynb)
 * [Predavanje 10 - Numerično odvajanje](./Predavanje 10 - Numerično odvajanje.ipynb)
 * [Predavanje 11 - Numerično integriranje](./Predavanje 11 - Numerično integriranje.ipynb)
-* [Predavanje 12 - Numerično reševanje diferencialnih enačb 1](./Predavanje 12 - Numerično reševanje diferencialnih enačb.ipynb)
-* [Predavanje 13 - Numerično reševanje diferencialnih enačb 2](./Predavanje 13 - Numerično reševanje diferencialnih enačb 2.ipynb)
+* [Predavanje 12 - Numerično reševanje diferencialnih enačb - začetni problem](./Predavanje 12 - Numerično reševanje diferencialnih enačb - začetni problem.ipynb)
+* [Predavanje 13 - Numerično reševanje diferencialnih enačb - robni problem](./Predavanje 13 - Numerično reševanje diferencialnih enačb - robni problem.ipynb)
 * [Predavanje 14 - Testiranje pravilnosti kode, uporabniški vmesnik](./Predavanje 14 - Testiranje pravilnosti kode, uporabniški vmesnik.ipynb)
 
 ## Dovoljenje za uporabo (License)
